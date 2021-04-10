@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; Java | MySQL
 
-- 🌐 &nbsp; VueJs | ElementUI 
+- 🌐 &nbsp; Canvas&Konav | TypeScript | VueJs | ElementUI 
 
 <!--
 
