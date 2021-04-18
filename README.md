@@ -4,7 +4,7 @@
 
 - 🌱 &nbsp; Learning about Back-end , Cloud and DevOps .
 
-- ✍️ &nbsp; Web Back-End Developer.
+- ✍️ &nbsp; Full-Stack Developer.
 
 <h3>🛠 Tech Stack</h3>
 
