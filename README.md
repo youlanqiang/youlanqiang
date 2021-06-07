@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | MySQL
+- 💻 &nbsp; Java | MySQL | Redis | RabbitMQ | MongoDB | Nginx
 
 - 🌐 &nbsp; Canvas&Konva | TypeScript | VueJs | ElementUI&Vuetify | Three.JS  
 
