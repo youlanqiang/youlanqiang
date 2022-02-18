@@ -12,15 +12,9 @@
 
 - 🌐 &nbsp; Canvas&Konva | TypeScript | Vue2 | ElementUI&Vuetify | Three.JS  
 
-<!--
-
 - 🛢 &nbsp; MySQL | Redis | RabbitMQ
 
 - 🔧 &nbsp; Git | Markdown 
-
--->
-
-
 
 <h3>🛠 To Learn</h3>
 
