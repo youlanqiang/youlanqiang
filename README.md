@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | MySQL | Redis | RabbitMQ | MongoDB | Nginx
+- 💻 &nbsp; Java | Netty | Spring-Framework
 
-- 🌐 &nbsp; Canvas&Konva | TypeScript | VueJs | ElementUI&Vuetify | Three.JS  
+- 🌐 &nbsp; Canvas&Konva | TypeScript | Vue2 | ElementUI&Vuetify | Three.JS  
 
 <!--
 
