@@ -8,17 +8,17 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Netty | Spring-Framework
+- 💻 &nbsp; Java | Spring-Framework | SpringCloud
 
-- 🌐 &nbsp; Canvas&Konva | TypeScript | Vue2 | ElementUI&Vuetify | Three.JS  
+- 🌐 &nbsp; TypeScript | Vue3
 
 - 🛢 &nbsp; MySQL | Redis | RabbitMQ
 
-- 🔧 &nbsp; Git | Markdown 
+- 🔧 &nbsp; Git | Docker
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Docker🐳 | SpringCloud | Go | C++
+- 🔧 &nbsp;  Go | C++
 
 <hr>
 
