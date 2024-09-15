@@ -14,7 +14,9 @@
 
 - 🛢 &nbsp; MySQL | Redis | RabbitMQ
 
-- 🔧 &nbsp; Git | Docker
+- 🔧 &nbsp; Git | Docker                        
+
+- 🔐 &nbsp; OAuth2 | JWT&JWS
 
 <h3>🛠 To Learn</h3>
 
