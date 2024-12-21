@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring-Framework | SpringCloud
+- 💻 &nbsp; Java | JavaFX | Spring-Framework | SpringCloud
 
 - 🌐 &nbsp; TypeScript | Vue3
 
