@@ -8,8 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | JavaFX | Spring-Framework | SpringCloud
-
+- 💻 &nbsp; C | Java | JavaFX | Spring-Framework | SpringCloud
 - 🌐 &nbsp; TypeScript | Vue3
 
 - 🛢 &nbsp; MySQL | Redis | RabbitMQ
@@ -20,8 +19,8 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Go | C++
-
+- 🔧 &nbsp;  Go | CSS3
+  
 <hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youlanqiang)](https://github.com/anuraghazra/github-readme-stats)
